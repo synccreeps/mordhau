@@ -1,0 +1,30 @@
+# directories
+.vs
+Build/LinuxServer
+Build/WindowsClient
+Build/WindowServer
+Build/XboxOneGDK
+Build/XSX
+LocalBuilds
+Binaries
+Content/.modio
+DerivedDataCache
+Intermediate
+Plugins/*/Binaries
+Plugins/*/Intermediate
+Saved
+x64
+SteamPipe
+SupporterPack
+
+# files
+*.bak
+*.db
+*.ddc
+*.ffs_db
+*.o
+*.obj
+*.opendb
+*.sln
+*.suo
+*.user

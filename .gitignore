@@ -32,6 +32,5 @@ LaunchMordhauSDK.bat
 LaunchInfo.txt
 MordhauSDK.uproject
 BuildDDC.bat
-Mods/kingdom/kingdom.uplugin
 StandaloneInstanceInfo.txt
-Mods/kingdom/Resources/Icon128.png
+
